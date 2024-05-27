@@ -52965,7 +52965,7 @@ A.BB.prototype={
 U(a){return new A.pL(new A.rP(null),!1,null)}}
 A.Un.prototype={
 $1(a){var s,r=document.createElement("iframe"),q=this.a
-r.srcdoc=q
+r.src=q
 s=r.style
 s.border="none"
 r.allow="microphone; camera;"
